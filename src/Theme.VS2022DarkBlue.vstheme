@@ -18,14 +18,14 @@
       <Color Name="EnvironmentBorder">
         <Background Type="CT_RAW" Source="FFBBC6DD" />
       </Color>
-      <Color Name="EnvironmentLayeredBackground">
-        <Background Type="CT_RAW" Source="4D000000" />
+      <Color Name="EnvironmentIndicator">
+        <Background Type="CT_RAW" Source="80BBC6DD" />
       </Color>
       <Color Name="EnvironmentLogo">
         <Background Type="CT_RAW" Source="FFBBC6DD" />
       </Color>
-      <Color Name="EnvironmentIndicator">
-        <Background Type="CT_RAW" Source="80BBC6DD" />
+      <Color Name="EnvironmentLayeredBackground">
+        <Background Type="CT_RAW" Source="4D000000" />
       </Color>
     </Category>
   </Theme>
